@@ -33,8 +33,8 @@ Predict myopia or nearsightedness  using the unsupervised machine learning model
 
 ### t-SNE plot: 
 
-<img src="image_t_SNE_plot.png" width="500"> 
+<img src="image_t_SNE_plot.png" width="400"> 
  
 ### Elbow plot: 
 
-<img src="image_elbow_plot.png" width="500"> 
+<img src="image_elbow_plot.png" width="400"> 
